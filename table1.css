@@ -1,0 +1,14 @@
+table,th,td{
+    border: 2px solid black;
+   border-collapse: collapse;
+    padding: .5em;
+}
+.a{
+    background-color: tomato;
+}
+.b{
+    background-color: deepskyblue;
+}
+table{
+    background-color: lightgreen;
+}
